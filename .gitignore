@@ -1,3 +1,6 @@
 # Ignore
 *.enc
 # Ignore all files with the .enc extension
+
+config.txt
+# Ignore the config.txt file
